@@ -17,9 +17,7 @@ int main()
        cin >> x;
 
        Fx = x - 4;
-       x - 4;
-       x = 4;
-       x = 4/2;
+       Fx = x;
    
      cout << "O valor de Fx e: " << x << "\n";
    
@@ -30,8 +28,7 @@ int main()
         cout << "Qual é o valor de Fx e: ";
         cin >> x;
 
-        Fx = x - 2;
-        x - 2;
+        Fx = x - 2;;
         x = 2;
         
         cout << "O Valor de Gx e: " << x << "\n"; 
